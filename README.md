@@ -23,7 +23,7 @@ Sua planilha deve ter 3 abas principais com as colunas certas:
 - **Aba `DadosDoAcervo`**:
   - `Tipo de Literatura`, `Objetivo`.
 - **Aba `ConteudoEstante`**:
-  - `Tipo de Literatura`, `Título`, `Autor`, `Ano`, `Categoria`, `Link`, `Link AudioBook`, `Lido`.
+  - `Tipo de Literatura`, `Título`, `Autor`, `Ano`, `Categoria`, `Link do Texto Principal`, `Link do Texto Complementar 1`, `Lido`.
 
 **IMPORTANTE**: No Google Sheets, vá em `Arquivo > Compartilhar > Publicar na Web`. Escolha `Documento Inteiro` e `Valores separados por vírgulas (.csv)`. Copie o ID da planilha.
 
